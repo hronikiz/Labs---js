@@ -36,7 +36,8 @@
 alert("Этот код выполнен из внешнего файла!");
 console.log("Сообщение в консоли");
 ```
-4. Получаю результат:  
+4. Получаю результат:
+![image](https://github.com/user-attachments/assets/dab214ac-b785-4da2-8838-463f0dccf378)
 ![image](https://github.com/user-attachments/assets/b02a7d19-0722-4138-ac14-d68a276ea061)  
 ![image](https://github.com/user-attachments/assets/4e3ba729-1c98-4fec-bb96-68683079d5b6)  
 
