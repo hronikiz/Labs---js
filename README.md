@@ -1,4 +1,4 @@
-# Noroc_Eugeniu
+# Iordatii_Ignatie
 # Лабораторная работа №1. Введение в JavaScript
 
 ## Задание 1  
