@@ -44,8 +44,8 @@ console.log("Сообщение в консоли");
 ### Работа с типами данных  
 1. Создаю переменные:  
 ```js
-var name = "Евгений";
-var birthYear = 2005;
+var name = "Ignat";
+var birthYear = 2006;
 var isStudent = true;
 ```
 2. Добавляю в script.js код:  
