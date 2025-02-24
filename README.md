@@ -1,4 +1,4 @@
-# Iordatii_Ignatie
+# Iordatii_Ignatie  
 # Лабораторная работа №1. Введение в JavaScript
 
 ## Задание 1  
@@ -36,8 +36,7 @@
 alert("Этот код выполнен из внешнего файла!");
 console.log("Сообщение в консоли");
 ```
-4. Получаю результат:
-![image](https://github.com/user-attachments/assets/dab214ac-b785-4da2-8838-463f0dccf378)
+4. Получаю результат:  
 ![image](https://github.com/user-attachments/assets/b02a7d19-0722-4138-ac14-d68a276ea061)  
 ![image](https://github.com/user-attachments/assets/4e3ba729-1c98-4fec-bb96-68683079d5b6)  
 
@@ -65,7 +64,7 @@ for (let i = 1; i <= 5; i++) {
 }
 ```
 3. Результат вывода в консоли:  
-![image](https://github.com/user-attachments/assets/8a9fcd3b-dd68-41af-a844-a991cdec2a98)  
+![изображение](https://github.com/user-attachments/assets/cb0bc763-3e51-4d92-864b-dfb26825103d)  
 ![image](https://github.com/user-attachments/assets/f8a1ba37-6263-4034-aabe-a2ef2185db5f)  
 ![image](https://github.com/user-attachments/assets/11ab0897-59ab-4f6f-8cb4-2e7ed5a9791d)  
 
