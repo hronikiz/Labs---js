@@ -1,3 +1,6 @@
+alert("Этот код выполнен из внешнего файла!");
+console.log("Сообщение в консоли");
+
 let name = 'Ignat';
 let birthYear = 18;
 let isStudent = true;
