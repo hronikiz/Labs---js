@@ -65,15 +65,15 @@ const transactions = [
 ```js
 console.log(getTransactionsByAmountRange(transactions, 100, 200));
 ```
-📌 **![image](https://github.com/user-attachments/assets/36588f07-2637-40ca-addc-7ae02319201a)
-**
+![image](https://github.com/user-attachments/assets/36588f07-2637-40ca-addc-7ae02319201a)
+
 
 ### 2. Проверьте работу на пустом массиве транзакций [extra]
 ```js
 console.log(calculateTotalAmount([]));
 ```
-📌 **![image](https://github.com/user-attachments/assets/14106ee7-c16b-40c3-aae7-547f1bf15dc5)
-*
+![image](https://github.com/user-attachments/assets/14106ee7-c16b-40c3-aae7-547f1bf15dc5)
+
 
 ### 3. Проверьте работу на массиве с одной транзакцией [extra]
 ```js
@@ -90,8 +90,8 @@ const singleTransaction = [
 ];
 console.log(calculateAverageTransactionAmount(singleTransaction));
 ```
-📌 **![image](https://github.com/user-attachments/assets/f7a58fa4-366b-4aa0-9695-238418531aaa)
-**
+![image](https://github.com/user-attachments/assets/f7a58fa4-366b-4aa0-9695-238418531aaa)
+
 
 ## Контрольные вопросы
 ### 1. Какие методы массивов можно использовать для обработки объектов в JavaScript?
