@@ -317,5 +317,4 @@ const transactions = [
     console.log("mostTransactionTypes:", mostTransactionTypes(singleTransaction));
   }
   
-  // Запуск тестов
   testFunctions();
