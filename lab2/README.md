@@ -93,6 +93,7 @@ console.log(calculateAverageTransactionAmount(singleTransaction));
 ![image](https://github.com/user-attachments/assets/f7a58fa4-366b-4aa0-9695-238418531aaa)
 
 
+
 ## Контрольные вопросы
 ### 1. Какие методы массивов можно использовать для обработки объектов в JavaScript?
 ```js
@@ -100,4 +101,39 @@ const objects = [{ age: 20 }, { age: 25 }];
 const ages = objects.map(obj => obj.age);
 console.log(ages); // [20, 25]
 ```
+
+### 2. Как сравнивать даты в строковом формате в JavaScript?
+```js
+const date1 = new Date("2023-01-15");
+const date2 = new Date("2023-01-20");
+
+console.log(date1 > date2); // false
+console.log(date1 < date2); // true
+console.log(date1.getTime() === date2.getTime()); // false
+```
+
+### 3. В чем разница между `map()`, `filter()` и `reduce()` при работе с массивами объектов?
+- `map()` – создает новый массив, преобразуя каждый элемент.
+- `filter()` – создает новый массив с элементами, соответствующими условию.
+- `reduce()` – сводит массив к одному значению (например, сумме).
+
+Пример использования:
+```js
+const transactions = [
+  { amount: 100 },
+  { amount: 200 },
+  { amount: 50 }
+];
+
+const amounts = transactions.map(t => t.amount);
+console.log(amounts); // [100, 200, 50]
+
+const largeTransactions = transactions.filter(t => t.amount > 100);
+console.log(largeTransactions); // [{ amount: 200 }]
+
+const totalAmount = transactions.reduce((sum, t) => sum + t.amount, 0);
+console.log(totalAmount); // 350
+```
+
+
 
