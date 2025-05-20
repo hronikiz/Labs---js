@@ -2,8 +2,8 @@
 
 Простой и элегантный калькулятор, созданный с использованием HTML, CSS и JavaScript. Поддерживает базовые арифметические операции и вводы как с помощью мыши, так и с клавиатуры.
 
-![Пример калькулятора](![image](https://github.com/user-attachments/assets/fea6733e-b3e7-4688-91fa-bd97bcd3b229)
-)
+![image](https://github.com/user-attachments/assets/c887d3c4-cb7c-4819-be4d-519f378e9add)
+
 
 ## Функциональность
 
